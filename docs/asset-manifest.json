@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dabeaf7.css",
+    "main.js": "/static/js/main.835dc8a6.js",
+    "static/js/787.234240cb.chunk.js": "/static/js/787.234240cb.chunk.js",
+    "static/media/pexels-johannes-plenio-1118873.jpg": "static/media/pexels-johannes-plenio-1118873.bd59187a29badb40b4b2.jpg",
+    "static/media/githubimg.png": "static/media/githubimg.d5b804c9761112382966.png",
+    "index.html": "/index.html",
+    "main.7dabeaf7.css.map": "/static/css/main.7dabeaf7.css.map",
+    "main.835dc8a6.js.map": "/static/js/main.835dc8a6.js.map",
+    "787.234240cb.chunk.js.map": "/static/js/787.234240cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dabeaf7.css",
+    "static/js/main.835dc8a6.js"
+  ]
+}
