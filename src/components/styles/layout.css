@@ -1,0 +1,32 @@
+#divfoot{
+  /*background-color:rgba(0,0,0,.7);*/
+  background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+  position:absolute;
+  bottom:0px;
+  height: auto;
+  margin-top:40px;
+}
+
+footer{
+  color:white;
+  max-height: 100;
+  padding: 12px;
+}
+
+#divfoot span{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+hr{
+  color:rgba(0,0,0,.0);
+}
+
+.imgLayout{
+  width:25px;
+  border-radius: 25px;
+  background-color: white;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

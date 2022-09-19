@@ -1,0 +1,33 @@
+#divretdata{
+  background-color:rgba(30,30,30,.3);
+  border-radius:30px;
+  float:center;
+  position:relative;
+}
+
+#ptimezone{
+  color:white;
+  font-size:18px;
+}
+
+#ptoday{
+  color:white;
+}
+
+#ptemp{
+  color:white;
+  font-size:27px;
+}
+
+#pdescr{
+  color:white;
+}
+
+#btnshowsearch{
+  font-size:35px;
+  width:40px;
+  padding:0;
+  border:0px;
+  background:none;
+  color:rgba(255,255,255,.6);
+}

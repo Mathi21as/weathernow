@@ -1,0 +1,102 @@
+#divprincipal{
+  background-color:rgba(10,10,10,.45);
+  border-radius:30px;
+}
+
+#divprincipal button{
+  text-align: center;
+}
+
+#pforecasttitle{
+  color: rgba(240,240,240,1);
+}
+
+#divcontentdailyfore{
+  overflow:scroll;
+  display:flex;
+  height:110px;
+}
+
+#divcontentdailyfore::-webkit-scrollbar{
+  width: 0;
+  height: 8px;
+  background-color: rgba(150,150,150,.3);
+}
+
+#divreturnhourly::-webkit-scrollbar{
+  width: 8px;
+  height: auto;
+  background-color: rgba(150,150,150,.3);
+}
+
+#divreturndaily{
+  width:100px;
+  height:100px;
+}
+
+#divreturnhourly{
+  width:100%;
+  height:150px;
+  overflow: auto;
+}
+
+#btndaily{
+  color:rgba(255,255,255,.9);
+  background:none;
+  border-style: outset;
+  border-width: 0.5px;
+  background-color:rgba(50,50,50,.7);
+  border-radius: 10px;
+  color: rgba(220,220,220,.8);
+}
+
+#btnhourly{
+  color:rgba(255,255,255,.9);
+  background:none;
+  border-style: outset;
+  border-width: 0.5px;
+  background-color:rgba(50,50,50,.7);
+  border-radius: 10px;
+  color: rgba(220,220,220,.8);
+}
+
+#btndaily:focus{
+  border-style: inset;
+  background-color:rgba(200,200,200,.6);
+  color: rgba(100,100,100,.8);
+}
+
+#btnhourly:focus{
+  border-style: inset;
+  background-color:rgba(200,200,200,.6);
+  color: rgba(100,100,100,.8);
+}
+
+#p1divret{
+  color:white;
+  font-size:11px;
+  width:70px;
+}
+
+#p2divret{
+  color:white;
+}
+
+.pHourly{
+  color: white;
+}
+
+#closeBtn{
+  color: rgba(255,255,255,.6);
+  background: none;
+  border: none;
+  height: 30px;
+  width: 100px;
+  font-size: 20px;
+  padding: 0;
+  transition: .3s ease-in-out all;
+}
+
+#closeBtn:hover{
+  color: rgba(255,50,50,.7);
+}

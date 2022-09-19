@@ -1,0 +1,25 @@
+#pMessage{
+  color:rgba(255,255,255,.7)
+}
+
+#ulrend{
+  width:320px;
+  height:100px;
+  overflow:auto;
+  padding-right:0px;
+  padding-left:0px;
+  scrollbar-width:none;
+}
+
+#btnret{
+  color:rgba(255,255,255,.9);
+  background:none;
+  border:none;
+  background-color:rgba(150,150,150,.5);
+  width: 200px;
+}
+
+#pnotfound{
+  font-size: 18px;
+  color:rgba(255,255,255,.7);
+}
